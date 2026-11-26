@@ -22,3 +22,5 @@ Here's a recap of the GitHub Copilot features you learned:
   - Try GitHub Copilot Coding Agent in the [Expand your team with Copilot](https://github.com/skills/expand-your-team-with-copilot) exercise
   - Try the GitHub Copilot app in the [Idea to Merge with the Copilot App](https://github.com/skills/idea-to-merge-with-the-copilot-app)
   - Try the GitHub Copilot CLI in the [Create applications with the Copilot CLI](https://github.com/skills/create-applications-with-the-copilot-CLI)
+
+  test
